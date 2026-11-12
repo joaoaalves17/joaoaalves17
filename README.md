@@ -7,6 +7,7 @@
 ### 🚀 Tecnologias e conhecimentos
 - JavaScript
 - Node.js
+- Python
 - SQL
 - Big Data e Analytics
 - HTML e CSS
