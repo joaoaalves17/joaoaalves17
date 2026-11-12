@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! Eu sou João Gustavo 👋
 
-<!--
-**joaoaalves17/joaoaalves17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+💻 Desenvolvedor em formação, com foco em desenvolvimento backend utilizando Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias e conhecimentos
+- JavaScript
+- Node.js
+- SQL
+- Big Data e Analytics
+- HTML e CSS
+- Git e GitHub
+
+### 📚 Atualmente estudando
+- Desenvolvimento de APIs REST
+- Node.js e Express.js
+- Banco de dados e SQL
+- Lógica de programação
+
+### 🎯 Objetivo
+Busco uma oportunidade na área de desenvolvimento de software, onde possa aplicar meus conhecimentos, desenvolver novas habilidades e contribuir com projetos reais.
+
+### 📫 Contato
+- GitHub: [@joaoaalves17](https://github.com/joaoaalves17)
+- Email: joaogustavooliveiraalves14@gmail.com
+- LinkedIn:  www.linkedin.com/in/joãogustavooliveira
